@@ -1,0 +1,4 @@
+public loc phploc = |file:///usr/bin/php|;
+
+public loc parserLoc = |file:///Users/apil/Dropbox/git|;
+public loc analysisLoc = |file:///Users/apil/Dropbox/git/php-analysis/|;
